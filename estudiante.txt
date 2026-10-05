@@ -1,0 +1,8 @@
+Nombre: Litzy Dayana
+Apellido: Mendoza Lopez
+Edad: 19
+Carrera: Ing De Sistemas
+Nombre: Alexa Abigail
+Apellido: Lopez Mejia
+Edad: 18
+Carrera: Psicologia
