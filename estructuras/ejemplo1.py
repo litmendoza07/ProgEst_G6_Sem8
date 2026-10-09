@@ -30,8 +30,6 @@ with open("texto.txt", "+w", encoding="utf-8") as archivo:
     for item in nuevaLista:
         archivo.write(str(item) + "\n")
 
-with open("texto.txt", "+w", encoding="utf-8") as miguel:
-        miguel.write("Hola Miguel, Como estas?")
 
 
     
